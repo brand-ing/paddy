@@ -1,6 +1,6 @@
-# demo
+# Paddy
 
-Some description. Trying to understand Git and Github
+Paddy is a password manager that works differently. 
 
 # Update
 
