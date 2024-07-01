@@ -33,7 +33,7 @@ size = 5
 for s in range(0, size):
     salt += random.choice(alpha)
     
-#add functionality to add salt to the end instead
+# add functionality to add salt to the end instead
     
  # Regular password generator...
 def generate_pass():
